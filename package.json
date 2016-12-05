@@ -8,6 +8,7 @@
   "directories": {
     "example": "examples"
   },
+  "main": "deploy/parallax.min.js",
   "scripts": {
     "build": "gulp"
   },
